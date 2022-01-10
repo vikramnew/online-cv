@@ -7,41 +7,32 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Vikram Newra
+    tagline: Educator
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: vikramnewra@gmail.com
+    phone: (+91) 7-58-069-908
+    linkedin: linkedin.com/in/vikramnewra/
+    github: vikramnew
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
+        level: Professional
+
+      - idiom: Marathi
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Travelling
         link:
 
-      - item: Snowboarding
+      - item: Trekking
         link:
 
       - item: Cooking
@@ -50,16 +41,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      From being a Computer Science graduate to co-founder, I have worked under different roles in sales and operations. Currently I am working as a fellow with Teach For India towards my zeal to eradicate inequity in Education.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bachelor of Engineering in Computer Science and Engineering
+      university: GH Raisoni College of Engineering affiliated to Nagpur University
+      time: 2011 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
