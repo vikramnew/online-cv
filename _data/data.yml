@@ -116,27 +116,28 @@ projects:
                Catered 100+ happy customers in first 6 months of operations.
                Creating and managing customer data and plan on excel.
 publications:
-    title: Publications
+    title: Part-time, Volunteering and Certification
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: MAKE A DIFFERENCE, NAGPUR
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: ED Support and Fundraising Volunteer - (2014-15; 2015 – 2016; 2018-2019)
+        conference: Taught maths and science to 12 kids at two different shelter homes in Nagpur.
+                    Organized event called Dream Camp 2015 and 2016 (3-day outing for kids at shelter home) as a logistics intern. Raised funds and mentor volunteers to raise funds for the Dream camp.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: DISHA INSTITUTE, NAGPUR
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Part time Tutor (2013-2014)
+        conference: Taught programming language (C, C++, JAVA basics) and HTML to undergrad engineering students.
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Certified Education Agent by PIER Australia recognized by Australian Government to counsel students for studying in Australia.
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+        authors:
+        conference: Completed Inquiry and Integration in Education course by ThinQ (22- week online course designed to develop academic intelligence and higher-order thinking capacities in learners)
+   
 skills:
     title: Skills &amp; Proficiency
 
