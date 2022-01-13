@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: vikramnewra@gmail.com
-    phone: (+91) 7-58-069-908
+    phone: (+91) 7058-069-908
     linkedin: linkedin.com/in/vikramnewra/
     github: vikramnew
     pdf: http://www.africau.edu/images/default/sample.pdf
@@ -118,9 +118,7 @@ projects:
 publications:
     title: Part-time, Volunteering and Certification
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+     
     papers:
       - title: MAKE A DIFFERENCE, NAGPUR
         link: "#"
@@ -142,23 +140,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Driven to actions; Problem Solver; Purpose driven ; Agile ; Abilit to thrive in ambiguity and challenges.
+        level: 
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Curriculum Design
+        level: 
 
-      - name: Angular
-        level: 98%
+      - name: Sales; Business Development; Operations; Marketing
+        level: 
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: MS Office ;  Programming languages (C,C++,Java-basics,HTML); Wordpress ;SEO
+        level: 
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Graduation Final year Project - An android application to reduce effect of cell phone radiation.
+        level: 
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Vipassana Meditation Practitioner.
+        level: 
 
 footer: >
     "Be the Change you wish to see in the world" <i class="fas fa-heart"></i> 
