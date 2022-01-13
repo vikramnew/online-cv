@@ -91,9 +91,9 @@ projects:
     intro: >
       
     assignments:
-      - title: September 2016 – April 2018  /p
-               Admissions Advisor (Operations)
-               KC Overseas (Formerly Krishna Consultants), Nagpur
+      - title: 'September 2016 – April 2018'+
+               'Admissions Advisor (Operations)'+
+               'KC Overseas (Formerly Krishna Consultants)' Nagpur
         link: "#hook"
         tagline: ""
 
